@@ -21,10 +21,12 @@ Analisis dan Visualisasi dapat dilihat pada looker studio
 
 
 # Datasets
+Dataset Pizza dari website maven analytics
 [Pizza Place Sales Dataset](https://mavenanalytics.io/data-playground?page=6&pageSize=5)
 
 
 # Website
+Website Dashboard Team 21 Pizza
 [Website Team 21](https://kampus-merdeka-software-engineering.github.io/km-feb24-jakarta-21/)
 
 
